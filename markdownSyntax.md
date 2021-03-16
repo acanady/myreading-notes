@@ -14,5 +14,4 @@
 1. List Item 2
 2. List Item 3
 
-[x] Item 1
-[ ] Item 2
+[Github](https://www.github.com)
