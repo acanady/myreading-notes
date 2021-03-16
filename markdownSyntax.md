@@ -15,4 +15,4 @@
 2. List Item 3
 
 [x] Item 1
-[] Item 2
+[ ] Item 2
