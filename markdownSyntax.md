@@ -23,3 +23,10 @@
 | x-values | y-values |
 | -------- | -------- |
 | 10       | 12       |
+
+```
+# Heading 1
+## Heading 2
+
+**BOLD**
+```
