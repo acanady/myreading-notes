@@ -14,4 +14,12 @@
 1. List Item 2
 2. List Item 3
 
+- [ ] Item 1
+- [ ] Item 2
+- [x] Item 3
+
 [Github](https://www.github.com)
+
+| x-values | y-values |
+| -------- | -------- |
+| 10       | 12       |
